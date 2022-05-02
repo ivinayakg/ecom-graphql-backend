@@ -1,0 +1,11 @@
+require("./Admin");
+require("./Cart");
+require("./Catergory");
+require("./Discount");
+require("./Inventory");
+require("./Product");
+require("./Tags");
+require("./User");
+require("./Wishlist");
+require("./junctionBox/product_catergory");
+require("./junctionBox/product_tag");
